@@ -1,0 +1,27 @@
+.titulo{
+    font-family: fantasy;/*font_family: cambiar tipo de letra*/
+    font-size: 40px; /*font_size: cambiar tamaño de la letra*/
+    text-align: center;
+    color: rgb(44, 42, 165) ;
+}
+.nav-item {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    display: inline;
+    padding: 15px;
+}
+.nav-contenedor{
+    text-align: center;
+}
+.title-2{
+    font-size: 20px;
+    font-family: fantasy;
+    text-align: center;
+    color: blueviolet;
+}
+
+.parrafo-uno{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
